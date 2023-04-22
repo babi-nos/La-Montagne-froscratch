@@ -32,6 +32,7 @@ $color3: rgba(128, 128, 128, 0.188);
 
 body {
     background: url(../img/bg.jpg) fixed center/cover;
+    background-attachment: fixed;
 
     &::before{
         content: "";

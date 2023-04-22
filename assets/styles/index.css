@@ -15,6 +15,7 @@
 
 body {
   background: url(../img/bg.jpg) fixed center/cover;
+  background-attachment: fixed;
 }
 body::before {
   content: "";
